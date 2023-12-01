@@ -33,6 +33,7 @@ http://localhost:3000/
 ```
 Enter any country's name and appropriate and relevant information from the API will be displayed
 
-<img width="720" alt="Screenshot 2023-04-28 at 22 26 17" src="https://user-images.githubusercontent.com/99283521/235256852-ae854c77-a2b8-4270-965c-1cede049fcab.png">
+<img width="1440" alt="Screenshot 2023-12-01 at 23 31 03" src="https://github.com/OmaidQ/country-app/assets/99283521/b2fff089-44e0-46d4-9f83-720db36d841e">
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
