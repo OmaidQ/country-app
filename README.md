@@ -9,7 +9,7 @@ https://restcountries.com/#endpoints-name
 
 The project is currently only available locally on a machine, so it must run off your own machine for testing purposes.
 
-1. Clone the repo locally
+1. Clone the repo locally and make sure you have react-scripts installed (npm install react-scripts)
 
 2. Using `cd` (or whatever command your shell uses to mvoe into a directory), move into the `back-end` directory
 ```bash
