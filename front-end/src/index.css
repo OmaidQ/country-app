@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', 'AgencyFB';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f5f5f5;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+button {
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1 {
+  font-size: 3.5rem;
+  text-align: center;
+  margin-top: 2rem;
+  color: #333;
+}
